@@ -26,7 +26,7 @@ define( 'DB_NAME', 'docpdv' );
 /** Usuário do banco de dados MySQL */
 define( 'DB_USER', 'DocPdv' );
 
-/** Senha do banco de dados MySQL */
+/** Senha do banco de dados MySQL */ 
 define( 'DB_PASSWORD', 'c5AcruxPdv' );
 
 /** Nome do host do MySQL */
